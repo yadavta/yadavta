@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @yadavta
-- 🌱 I’m currently learning Node/Express and Front-end Development
+- 🌱 I’m currently learning Full-Stack Development
+- 📚 I plan on learning Data Science and Statistics
+- 👀 I'm interested in the application of CS in medicine
 - 📫 How to reach me: tanushyadav at gmail dot com
 
 <!---
