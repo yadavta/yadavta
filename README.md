@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yadavta
-- 🌱 I’m currently learning Full-Stack Development
-- 📚 I plan on learning Data Science and Statistics
-- 👀 I'm interested in the application of CS in medicine
-- 📫 How to reach me: tanushyadav at gmail dot com
+- 📚 I'm studying Computer Science in the Allen School at the University of Washington
+- 👀 I'm interested in entrepreneurship, computing for good, and the intersection between bussiness and technology
+- 📫 I'd love to talk! Feel free to email me: tanush at cs dot washington dot edu
 
 <!---
 yadavta/yadavta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
